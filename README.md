@@ -12,4 +12,10 @@ Hoje eu aprendi:
 28/04/2020
 - Sobre o mercado de trabalho dev ouvindo a experiência de desenvolvedores novos e antigos, quais as dificuldades enfrentadas para se inserirem no mercado e o que fariam de diferente se conhececem soubessem o que sabem hoje;
 - Debugar meu código através do VS Code sem a necessidade de inserir um arquivo JS numa página, abrir o navegador e observar o console na ferramenta de inspeção;
-- Trabalhar com os loops "FOR IN" e "FOR OFF";
+- Trabalhar com os loops "FOR IN" e "FOR OFF".
+
+12/08/2021
+- It's been a while... :D
+- Terminando um curso introdutório a Python da Fundação Bradesco;
+- Revisei diversos conceitos e preparo da IDE no VS Code para Python;
+- Ah, tive que mudar todo meu workflow do Ubunto para o Fedora, minha distro do <3! Foi um bom aprendizado.
