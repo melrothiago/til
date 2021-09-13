@@ -18,4 +18,11 @@ Hoje eu aprendi:
 - It's been a while... :D
 - Terminando um curso introdutório a Python da Fundação Bradesco;
 - Revisei diversos conceitos e preparo da IDE no VS Code para Python;
-- Ah, tive que mudar todo meu workflow do Ubunto para o Fedora, minha distro do <3! Foi um bom aprendizado.
+- Ah, tive que mudar todo meu workflow do Ubunto para o Fedora, minha distro do <3! Foi um bom aprendizado;
+
+14/08/2021
+- Revisei sincronizar os repositórios do GitHub com meu GIT local;
+
+12/09/2021
+- Pratiquei exercícios, usei import para biblioteca RegEx;
+- Usei .findall para varrer caracteres e len() para contar caracteres;
